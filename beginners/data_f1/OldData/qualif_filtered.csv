@@ -1,0 +1,431 @@
+race,driver,quali_pos
+Bahrain International Circuit,George Russell,15
+Bahrain International Circuit,Pierre Gasly,5
+Bahrain International Circuit,Nikita Mazepin,19
+Bahrain International Circuit,Mick Schumacher,18
+Bahrain International Circuit,Antonio Giovinazzi,12
+Bahrain International Circuit,Kimi Räikkönen,14
+Bahrain International Circuit,Max Verstappen,1
+Bahrain International Circuit,Sergio Pérez,0
+Bahrain International Circuit,Valtteri Bottas,3
+Bahrain International Circuit,Lewis Hamilton,2
+Bahrain International Circuit,Yuki Tsunoda,13
+Bahrain International Circuit,Sebastian Vettel,20
+Bahrain International Circuit,Esteban Ocon,16
+Bahrain International Circuit,Fernando Alonso,9
+Bahrain International Circuit,Charles Leclerc,4
+Bahrain International Circuit,Carlos Sainz,8
+Bahrain International Circuit,Lando Norris,7
+Bahrain International Circuit,Daniel Ricciardo,6
+Bahrain International Circuit,Nicholas Latifi,17
+Bahrain International Circuit,Lance Stroll,10
+Autodromo Enzo e Dino Ferrari,George Russell,12
+Autodromo Enzo e Dino Ferrari,Pierre Gasly,5
+Autodromo Enzo e Dino Ferrari,Nikita Mazepin,19
+Autodromo Enzo e Dino Ferrari,Mick Schumacher,18
+Autodromo Enzo e Dino Ferrari,Antonio Giovinazzi,17
+Autodromo Enzo e Dino Ferrari,Kimi Räikkönen,16
+Autodromo Enzo e Dino Ferrari,Max Verstappen,3
+Autodromo Enzo e Dino Ferrari,Sergio Pérez,2
+Autodromo Enzo e Dino Ferrari,Valtteri Bottas,8
+Autodromo Enzo e Dino Ferrari,Lewis Hamilton,1
+Autodromo Enzo e Dino Ferrari,Yuki Tsunoda,20
+Autodromo Enzo e Dino Ferrari,Sebastian Vettel,0
+Autodromo Enzo e Dino Ferrari,Esteban Ocon,9
+Autodromo Enzo e Dino Ferrari,Fernando Alonso,15
+Autodromo Enzo e Dino Ferrari,Charles Leclerc,4
+Autodromo Enzo e Dino Ferrari,Carlos Sainz,11
+Autodromo Enzo e Dino Ferrari,Lando Norris,7
+Autodromo Enzo e Dino Ferrari,Daniel Ricciardo,6
+Autodromo Enzo e Dino Ferrari,Nicholas Latifi,14
+Autodromo Enzo e Dino Ferrari,Lance Stroll,10
+Autódromo Internacional do Algarve,George Russell,11
+Autódromo Internacional do Algarve,Pierre Gasly,9
+Autódromo Internacional do Algarve,Nikita Mazepin,20
+Autódromo Internacional do Algarve,Mick Schumacher,19
+Autódromo Internacional do Algarve,Antonio Giovinazzi,12
+Autódromo Internacional do Algarve,Kimi Räikkönen,15
+Autódromo Internacional do Algarve,Max Verstappen,3
+Autódromo Internacional do Algarve,Sergio Pérez,4
+Autódromo Internacional do Algarve,Valtteri Bottas,1
+Autódromo Internacional do Algarve,Lewis Hamilton,2
+Autódromo Internacional do Algarve,Yuki Tsunoda,14
+Autódromo Internacional do Algarve,Sebastian Vettel,10
+Autódromo Internacional do Algarve,Esteban Ocon,6
+Autódromo Internacional do Algarve,Fernando Alonso,13
+Autódromo Internacional do Algarve,Charles Leclerc,8
+Autódromo Internacional do Algarve,Carlos Sainz,5
+Autódromo Internacional do Algarve,Lando Norris,7
+Autódromo Internacional do Algarve,Daniel Ricciardo,16
+Autódromo Internacional do Algarve,Nicholas Latifi,18
+Autódromo Internacional do Algarve,Lance Stroll,17
+Circuit de Barcelona-Catalunya,George Russell,15
+Circuit de Barcelona-Catalunya,Pierre Gasly,12
+Circuit de Barcelona-Catalunya,Nikita Mazepin,20
+Circuit de Barcelona-Catalunya,Mick Schumacher,18
+Circuit de Barcelona-Catalunya,Antonio Giovinazzi,14
+Circuit de Barcelona-Catalunya,Kimi Räikkönen,17
+Circuit de Barcelona-Catalunya,Max Verstappen,2
+Circuit de Barcelona-Catalunya,Sergio Pérez,8
+Circuit de Barcelona-Catalunya,Valtteri Bottas,3
+Circuit de Barcelona-Catalunya,Lewis Hamilton,1
+Circuit de Barcelona-Catalunya,Yuki Tsunoda,16
+Circuit de Barcelona-Catalunya,Sebastian Vettel,13
+Circuit de Barcelona-Catalunya,Esteban Ocon,5
+Circuit de Barcelona-Catalunya,Fernando Alonso,10
+Circuit de Barcelona-Catalunya,Charles Leclerc,4
+Circuit de Barcelona-Catalunya,Carlos Sainz,6
+Circuit de Barcelona-Catalunya,Lando Norris,9
+Circuit de Barcelona-Catalunya,Daniel Ricciardo,7
+Circuit de Barcelona-Catalunya,Nicholas Latifi,19
+Circuit de Barcelona-Catalunya,Lance Stroll,11
+Circuit de Monaco,George Russell,15
+Circuit de Monaco,Pierre Gasly,6
+Circuit de Monaco,Nikita Mazepin,19
+Circuit de Monaco,Antonio Giovinazzi,10
+Circuit de Monaco,Kimi Räikkönen,14
+Circuit de Monaco,Max Verstappen,2
+Circuit de Monaco,Sergio Pérez,9
+Circuit de Monaco,Valtteri Bottas,3
+Circuit de Monaco,Lewis Hamilton,7
+Circuit de Monaco,Yuki Tsunoda,16
+Circuit de Monaco,Sebastian Vettel,8
+Circuit de Monaco,Esteban Ocon,11
+Circuit de Monaco,Fernando Alonso,17
+Circuit de Monaco,Charles Leclerc,1
+Circuit de Monaco,Carlos Sainz,4
+Circuit de Monaco,Lando Norris,5
+Circuit de Monaco,Daniel Ricciardo,12
+Circuit de Monaco,Nicholas Latifi,18
+Circuit de Monaco,Lance Stroll,13
+Baku City Circuit,George Russell,15
+Baku City Circuit,Pierre Gasly,4
+Baku City Circuit,Nikita Mazepin,18
+Baku City Circuit,Mick Schumacher,17
+Baku City Circuit,Antonio Giovinazzi,20
+Baku City Circuit,Kimi Räikkönen,14
+Baku City Circuit,Max Verstappen,3
+Baku City Circuit,Sergio Pérez,6
+Baku City Circuit,Valtteri Bottas,10
+Baku City Circuit,Lewis Hamilton,2
+Baku City Circuit,Yuki Tsunoda,7
+Baku City Circuit,Sebastian Vettel,11
+Baku City Circuit,Esteban Ocon,12
+Baku City Circuit,Fernando Alonso,8
+Baku City Circuit,Charles Leclerc,1
+Baku City Circuit,Carlos Sainz,5
+Baku City Circuit,Lando Norris,9
+Baku City Circuit,Daniel Ricciardo,13
+Baku City Circuit,Nicholas Latifi,16
+Baku City Circuit,Lance Stroll,19
+Circuit Paul Ricard,George Russell,14
+Circuit Paul Ricard,Pierre Gasly,6
+Circuit Paul Ricard,Nikita Mazepin,18
+Circuit Paul Ricard,Mick Schumacher,15
+Circuit Paul Ricard,Antonio Giovinazzi,13
+Circuit Paul Ricard,Kimi Räikkönen,17
+Circuit Paul Ricard,Max Verstappen,1
+Circuit Paul Ricard,Sergio Pérez,4
+Circuit Paul Ricard,Valtteri Bottas,3
+Circuit Paul Ricard,Lewis Hamilton,2
+Circuit Paul Ricard,Yuki Tsunoda,0
+Circuit Paul Ricard,Sebastian Vettel,12
+Circuit Paul Ricard,Esteban Ocon,11
+Circuit Paul Ricard,Fernando Alonso,9
+Circuit Paul Ricard,Charles Leclerc,7
+Circuit Paul Ricard,Carlos Sainz,5
+Circuit Paul Ricard,Lando Norris,8
+Circuit Paul Ricard,Daniel Ricciardo,10
+Circuit Paul Ricard,Nicholas Latifi,16
+Circuit Paul Ricard,Lance Stroll,19
+Red Bull Ring,George Russell,10
+Red Bull Ring,George Russell,8
+Red Bull Ring,Pierre Gasly,6
+Red Bull Ring,Nikita Mazepin,20
+Red Bull Ring,Mick Schumacher,19
+Red Bull Ring,Antonio Giovinazzi,15
+Red Bull Ring,Kimi Räikkönen,18
+Red Bull Ring,Kimi Räikkönen,16
+Red Bull Ring,Max Verstappen,1
+Red Bull Ring,Sergio Pérez,4
+Red Bull Ring,Sergio Pérez,3
+Red Bull Ring,Valtteri Bottas,5
+Red Bull Ring,Lewis Hamilton,2
+Red Bull Ring,Lewis Hamilton,4
+Red Bull Ring,Yuki Tsunoda,11
+Red Bull Ring,Yuki Tsunoda,7
+Red Bull Ring,Sebastian Vettel,14
+Red Bull Ring,Sebastian Vettel,11
+Red Bull Ring,Esteban Ocon,17
+Red Bull Ring,Fernando Alonso,8
+Red Bull Ring,Fernando Alonso,14
+Red Bull Ring,Charles Leclerc,7
+Red Bull Ring,Charles Leclerc,12
+Red Bull Ring,Carlos Sainz,12
+Red Bull Ring,Carlos Sainz,10
+Red Bull Ring,Lando Norris,3
+Red Bull Ring,Lando Norris,2
+Red Bull Ring,Daniel Ricciardo,13
+Red Bull Ring,Nicholas Latifi,16
+Red Bull Ring,Nicholas Latifi,18
+Red Bull Ring,Lance Stroll,9
+Silverstone Circuit,George Russell,12
+Silverstone Circuit,Pierre Gasly,11
+Silverstone Circuit,Nikita Mazepin,19
+Silverstone Circuit,Mick Schumacher,18
+Silverstone Circuit,Antonio Giovinazzi,15
+Silverstone Circuit,Kimi Räikkönen,13
+Silverstone Circuit,Max Verstappen,1
+Silverstone Circuit,Sergio Pérez,0
+Silverstone Circuit,Valtteri Bottas,3
+Silverstone Circuit,Lewis Hamilton,2
+Silverstone Circuit,Yuki Tsunoda,16
+Silverstone Circuit,Sebastian Vettel,8
+Silverstone Circuit,Esteban Ocon,9
+Silverstone Circuit,Fernando Alonso,7
+Silverstone Circuit,Charles Leclerc,4
+Silverstone Circuit,Carlos Sainz,10
+Silverstone Circuit,Lando Norris,5
+Silverstone Circuit,Daniel Ricciardo,6
+Silverstone Circuit,Nicholas Latifi,17
+Silverstone Circuit,Lance Stroll,14
+Hungaroring,George Russell,17
+Hungaroring,Pierre Gasly,5
+Hungaroring,Nikita Mazepin,19
+Hungaroring,Mick Schumacher,20
+Hungaroring,Antonio Giovinazzi,0
+Hungaroring,Kimi Räikkönen,13
+Hungaroring,Max Verstappen,3
+Hungaroring,Sergio Pérez,4
+Hungaroring,Valtteri Bottas,2
+Hungaroring,Lewis Hamilton,1
+Hungaroring,Yuki Tsunoda,16
+Hungaroring,Sebastian Vettel,10
+Hungaroring,Esteban Ocon,8
+Hungaroring,Fernando Alonso,9
+Hungaroring,Charles Leclerc,7
+Hungaroring,Carlos Sainz,15
+Hungaroring,Lando Norris,6
+Hungaroring,Daniel Ricciardo,11
+Hungaroring,Nicholas Latifi,18
+Hungaroring,Lance Stroll,12
+Circuit de Spa-Francorchamps,George Russell,2
+Circuit de Spa-Francorchamps,Pierre Gasly,6
+Circuit de Spa-Francorchamps,Nikita Mazepin,18
+Circuit de Spa-Francorchamps,Mick Schumacher,17
+Circuit de Spa-Francorchamps,Antonio Giovinazzi,14
+Circuit de Spa-Francorchamps,Kimi Räikkönen,0
+Circuit de Spa-Francorchamps,Max Verstappen,1
+Circuit de Spa-Francorchamps,Sergio Pérez,0
+Circuit de Spa-Francorchamps,Valtteri Bottas,13
+Circuit de Spa-Francorchamps,Lewis Hamilton,3
+Circuit de Spa-Francorchamps,Yuki Tsunoda,16
+Circuit de Spa-Francorchamps,Sebastian Vettel,5
+Circuit de Spa-Francorchamps,Esteban Ocon,8
+Circuit de Spa-Francorchamps,Fernando Alonso,12
+Circuit de Spa-Francorchamps,Charles Leclerc,9
+Circuit de Spa-Francorchamps,Carlos Sainz,11
+Circuit de Spa-Francorchamps,Lando Norris,15
+Circuit de Spa-Francorchamps,Daniel Ricciardo,4
+Circuit de Spa-Francorchamps,Nicholas Latifi,10
+Circuit de Spa-Francorchamps,Lance Stroll,19
+Circuit Park Zandvoort,George Russell,11
+Circuit Park Zandvoort,Pierre Gasly,4
+Circuit Park Zandvoort,Nikita Mazepin,18
+Circuit Park Zandvoort,Mick Schumacher,17
+Circuit Park Zandvoort,Antonio Giovinazzi,7
+Circuit Park Zandvoort,Max Verstappen,1
+Circuit Park Zandvoort,Sergio Pérez,0
+Circuit Park Zandvoort,Valtteri Bottas,3
+Circuit Park Zandvoort,Lewis Hamilton,2
+Circuit Park Zandvoort,Yuki Tsunoda,14
+Circuit Park Zandvoort,Sebastian Vettel,15
+Circuit Park Zandvoort,Esteban Ocon,8
+Circuit Park Zandvoort,Fernando Alonso,9
+Circuit Park Zandvoort,Charles Leclerc,5
+Circuit Park Zandvoort,Carlos Sainz,6
+Circuit Park Zandvoort,Lando Norris,13
+Circuit Park Zandvoort,Daniel Ricciardo,10
+Circuit Park Zandvoort,Nicholas Latifi,0
+Circuit Park Zandvoort,Lance Stroll,12
+Circuit Park Zandvoort,Robert Kubica,16
+Autodromo Nazionale di Monza,George Russell,14
+Autodromo Nazionale di Monza,Pierre Gasly,0
+Autodromo Nazionale di Monza,Nikita Mazepin,16
+Autodromo Nazionale di Monza,Mick Schumacher,18
+Autodromo Nazionale di Monza,Antonio Giovinazzi,7
+Autodromo Nazionale di Monza,Max Verstappen,1
+Autodromo Nazionale di Monza,Sergio Pérez,8
+Autodromo Nazionale di Monza,Valtteri Bottas,19
+Autodromo Nazionale di Monza,Lewis Hamilton,4
+Autodromo Nazionale di Monza,Yuki Tsunoda,0
+Autodromo Nazionale di Monza,Sebastian Vettel,11
+Autodromo Nazionale di Monza,Esteban Ocon,12
+Autodromo Nazionale di Monza,Fernando Alonso,10
+Autodromo Nazionale di Monza,Charles Leclerc,5
+Autodromo Nazionale di Monza,Carlos Sainz,6
+Autodromo Nazionale di Monza,Lando Norris,3
+Autodromo Nazionale di Monza,Daniel Ricciardo,2
+Autodromo Nazionale di Monza,Nicholas Latifi,13
+Autodromo Nazionale di Monza,Lance Stroll,9
+Autodromo Nazionale di Monza,Robert Kubica,17
+Sochi Autodrom,George Russell,3
+Sochi Autodrom,Pierre Gasly,11
+Sochi Autodrom,Nikita Mazepin,15
+Sochi Autodrom,Mick Schumacher,14
+Sochi Autodrom,Antonio Giovinazzi,17
+Sochi Autodrom,Kimi Räikkönen,13
+Sochi Autodrom,Max Verstappen,20
+Sochi Autodrom,Sergio Pérez,8
+Sochi Autodrom,Valtteri Bottas,16
+Sochi Autodrom,Lewis Hamilton,4
+Sochi Autodrom,Yuki Tsunoda,12
+Sochi Autodrom,Sebastian Vettel,10
+Sochi Autodrom,Esteban Ocon,9
+Sochi Autodrom,Fernando Alonso,6
+Sochi Autodrom,Charles Leclerc,19
+Sochi Autodrom,Carlos Sainz,2
+Sochi Autodrom,Lando Norris,1
+Sochi Autodrom,Daniel Ricciardo,5
+Sochi Autodrom,Nicholas Latifi,18
+Sochi Autodrom,Lance Stroll,7
+Istanbul Park,George Russell,13
+Istanbul Park,Pierre Gasly,4
+Istanbul Park,Nikita Mazepin,18
+Istanbul Park,Mick Schumacher,14
+Istanbul Park,Antonio Giovinazzi,16
+Istanbul Park,Kimi Räikkönen,17
+Istanbul Park,Max Verstappen,2
+Istanbul Park,Sergio Pérez,6
+Istanbul Park,Valtteri Bottas,1
+Istanbul Park,Lewis Hamilton,11
+Istanbul Park,Yuki Tsunoda,9
+Istanbul Park,Sebastian Vettel,10
+Istanbul Park,Esteban Ocon,12
+Istanbul Park,Fernando Alonso,5
+Istanbul Park,Charles Leclerc,3
+Istanbul Park,Carlos Sainz,19
+Istanbul Park,Lando Norris,7
+Istanbul Park,Daniel Ricciardo,20
+Istanbul Park,Nicholas Latifi,15
+Istanbul Park,Lance Stroll,8
+Circuit of the Americas,George Russell,20
+Circuit of the Americas,Pierre Gasly,8
+Circuit of the Americas,Nikita Mazepin,17
+Circuit of the Americas,Mick Schumacher,16
+Circuit of the Americas,Antonio Giovinazzi,12
+Circuit of the Americas,Kimi Räikkönen,15
+Circuit of the Americas,Max Verstappen,1
+Circuit of the Americas,Sergio Pérez,3
+Circuit of the Americas,Valtteri Bottas,9
+Circuit of the Americas,Lewis Hamilton,2
+Circuit of the Americas,Yuki Tsunoda,10
+Circuit of the Americas,Sebastian Vettel,18
+Circuit of the Americas,Esteban Ocon,11
+Circuit of the Americas,Fernando Alonso,19
+Circuit of the Americas,Charles Leclerc,4
+Circuit of the Americas,Carlos Sainz,5
+Circuit of the Americas,Lando Norris,7
+Circuit of the Americas,Daniel Ricciardo,6
+Circuit of the Americas,Nicholas Latifi,14
+Circuit of the Americas,Lance Stroll,13
+Autódromo Hermanos Rodríguez,George Russell,16
+Autódromo Hermanos Rodríguez,Pierre Gasly,5
+Autódromo Hermanos Rodríguez,Nikita Mazepin,15
+Autódromo Hermanos Rodríguez,Mick Schumacher,14
+Autódromo Hermanos Rodríguez,Antonio Giovinazzi,11
+Autódromo Hermanos Rodríguez,Kimi Räikkönen,10
+Autódromo Hermanos Rodríguez,Max Verstappen,3
+Autódromo Hermanos Rodríguez,Sergio Pérez,4
+Autódromo Hermanos Rodríguez,Valtteri Bottas,1
+Autódromo Hermanos Rodríguez,Lewis Hamilton,2
+Autódromo Hermanos Rodríguez,Yuki Tsunoda,17
+Autódromo Hermanos Rodríguez,Sebastian Vettel,9
+Autódromo Hermanos Rodríguez,Esteban Ocon,19
+Autódromo Hermanos Rodríguez,Fernando Alonso,12
+Autódromo Hermanos Rodríguez,Charles Leclerc,8
+Autódromo Hermanos Rodríguez,Carlos Sainz,6
+Autódromo Hermanos Rodríguez,Lando Norris,18
+Autódromo Hermanos Rodríguez,Daniel Ricciardo,7
+Autódromo Hermanos Rodríguez,Nicholas Latifi,13
+Autódromo Hermanos Rodríguez,Lance Stroll,20
+Autódromo José Carlos Pace,George Russell,17
+Autódromo José Carlos Pace,Pierre Gasly,7
+Autódromo José Carlos Pace,Nikita Mazepin,19
+Autódromo José Carlos Pace,Mick Schumacher,18
+Autódromo José Carlos Pace,Antonio Giovinazzi,13
+Autódromo José Carlos Pace,Kimi Räikkönen,0
+Autódromo José Carlos Pace,Max Verstappen,2
+Autódromo José Carlos Pace,Sergio Pérez,4
+Autódromo José Carlos Pace,Valtteri Bottas,1
+Autódromo José Carlos Pace,Lewis Hamilton,10
+Autódromo José Carlos Pace,Yuki Tsunoda,15
+Autódromo José Carlos Pace,Sebastian Vettel,9
+Autódromo José Carlos Pace,Esteban Ocon,8
+Autódromo José Carlos Pace,Fernando Alonso,12
+Autódromo José Carlos Pace,Charles Leclerc,6
+Autódromo José Carlos Pace,Carlos Sainz,3
+Autódromo José Carlos Pace,Lando Norris,5
+Autódromo José Carlos Pace,Daniel Ricciardo,11
+Autódromo José Carlos Pace,Nicholas Latifi,16
+Autódromo José Carlos Pace,Lance Stroll,14
+Losail International Circuit,George Russell,15
+Losail International Circuit,Pierre Gasly,2
+Losail International Circuit,Nikita Mazepin,20
+Losail International Circuit,Mick Schumacher,19
+Losail International Circuit,Antonio Giovinazzi,18
+Losail International Circuit,Kimi Räikkönen,16
+Losail International Circuit,Max Verstappen,7
+Losail International Circuit,Sergio Pérez,11
+Losail International Circuit,Valtteri Bottas,6
+Losail International Circuit,Lewis Hamilton,1
+Losail International Circuit,Yuki Tsunoda,8
+Losail International Circuit,Sebastian Vettel,10
+Losail International Circuit,Esteban Ocon,9
+Losail International Circuit,Fernando Alonso,3
+Losail International Circuit,Charles Leclerc,13
+Losail International Circuit,Carlos Sainz,5
+Losail International Circuit,Lando Norris,4
+Losail International Circuit,Daniel Ricciardo,14
+Losail International Circuit,Nicholas Latifi,17
+Losail International Circuit,Lance Stroll,12
+Jeddah Corniche Circuit,George Russell,14
+Jeddah Corniche Circuit,Pierre Gasly,6
+Jeddah Corniche Circuit,Nikita Mazepin,20
+Jeddah Corniche Circuit,Mick Schumacher,19
+Jeddah Corniche Circuit,Antonio Giovinazzi,10
+Jeddah Corniche Circuit,Kimi Räikkönen,12
+Jeddah Corniche Circuit,Max Verstappen,3
+Jeddah Corniche Circuit,Sergio Pérez,5
+Jeddah Corniche Circuit,Valtteri Bottas,2
+Jeddah Corniche Circuit,Lewis Hamilton,1
+Jeddah Corniche Circuit,Yuki Tsunoda,8
+Jeddah Corniche Circuit,Sebastian Vettel,17
+Jeddah Corniche Circuit,Esteban Ocon,9
+Jeddah Corniche Circuit,Fernando Alonso,13
+Jeddah Corniche Circuit,Charles Leclerc,4
+Jeddah Corniche Circuit,Carlos Sainz,15
+Jeddah Corniche Circuit,Lando Norris,7
+Jeddah Corniche Circuit,Daniel Ricciardo,11
+Jeddah Corniche Circuit,Nicholas Latifi,16
+Jeddah Corniche Circuit,Lance Stroll,18
+Yas Marina Circuit,George Russell,17
+Yas Marina Circuit,Pierre Gasly,12
+Yas Marina Circuit,Nikita Mazepin,20
+Yas Marina Circuit,Mick Schumacher,19
+Yas Marina Circuit,Antonio Giovinazzi,14
+Yas Marina Circuit,Kimi Räikkönen,18
+Yas Marina Circuit,Max Verstappen,1
+Yas Marina Circuit,Sergio Pérez,4
+Yas Marina Circuit,Valtteri Bottas,6
+Yas Marina Circuit,Lewis Hamilton,2
+Yas Marina Circuit,Yuki Tsunoda,8
+Yas Marina Circuit,Sebastian Vettel,15
+Yas Marina Circuit,Esteban Ocon,9
+Yas Marina Circuit,Fernando Alonso,11
+Yas Marina Circuit,Charles Leclerc,7
+Yas Marina Circuit,Carlos Sainz,5
+Yas Marina Circuit,Lando Norris,3
+Yas Marina Circuit,Daniel Ricciardo,10
+Yas Marina Circuit,Nicholas Latifi,16
+Yas Marina Circuit,Lance Stroll,13
