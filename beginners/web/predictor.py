@@ -19,6 +19,8 @@ data = pd.read_csv('../data_f1/cleaned_data.csv')
 qualif = pd.read_csv('../data_f1/qualif_filtered.csv')
 lastqualif = pd.read_csv('../data_f1/qualif_lastrace.csv')
 
+# Model loaded
+# clf = pickle.load(open('./RandomForestClassifier.pkl','rb'))
 model = tf.keras.models.load_model("./model/model.h5")
 
 y_dict = {1:'Podium Finish',
@@ -40,7 +42,13 @@ def pred(driver,constructor,quali,circuit):
     driver_enc = le_d.transform([driver]).max()
     driver_confidence = driver_dict[driver].max()
     constructor_reliability = constructor_dict[constructor].max()
+
+    # Random forest original pred
+    # prediction = clf.predict([[gp,quali_pos,constructor_enc,driver_enc,driver_confidence,constructor_reliability]]).max()
+    #print(clf.predict([[gp,quali_pos,constructor_enc,driver_enc,driver_confidence,constructor_reliability]]))
+    #return y_dict[prediction]
     
+    # ANN pred
     x_pred = np.array([gp,quali_pos,constructor_enc,driver_enc,driver_confidence,constructor_reliability])
     x_pred = np.expand_dims(x_pred, 0)
     prediction = model.predict(x_pred)
@@ -57,13 +65,9 @@ def getproba(driver,constructor):
 def getQualifData(circuit, driver):
     df = qualif[(qualif['race']==circuit) & (qualif['driver']==driver)]
     qlst = df['quali_pos'].tolist()
-    print(driver)
     if len(qlst) > 0:
         return qlst[0]
     else :
         df = lastqualif[(qualif['driver']==driver)]
         qlst = df['quali_pos'].tolist()
         return qlst[0]
-
-# quali = getQualifData('Red Bull Ring','Daniel Ricciardo')
-# print(pred('Daniel Ricciardo','McLaren',quali,'Warm'))

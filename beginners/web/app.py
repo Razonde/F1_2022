@@ -57,8 +57,8 @@ def predict_position():
     
     # print (res)
     df1 = pd.DataFrame(res, columns = ['Driver','Constructor','podium', 'driver_confidence', 'constructor_reliability', 'Prediction'] )
-    df1 = df1.sort_values(['podium','Prediction'], ascending=[True, False])#.head(5)
-    # df1 = df1.drop(['Prediction'],1)
+    df1 = df1.sort_values(['podium','Prediction'], ascending=[True, False]).head(5)
+    df1 = df1.drop(['Prediction'],1)
     
     return render_template('index.html',tables=[df1.to_html(classes='driver')])
 
