@@ -11,8 +11,7 @@ active_drivers = [['Daniel Ricciardo','McLaren'],
                   ['Lance Stroll','Aston Martin'], 
                   ['George Russell','Williams'],
                   ['Lando Norris','McLaren'], 
-                  ['Sebastian Vettel','Aston Martin'], 
-                  ['Kimi Räikkönen','Alfa Romeo'],
+                #   ['Sebastian Vettel','Aston Martin'], 
                   ['Charles Leclerc','Ferrari'], 
                   ['Lewis Hamilton','Mercedes'], 
                   ['Yuki Tsunoda','AlphaTauri'],
@@ -21,9 +20,11 @@ active_drivers = [['Daniel Ricciardo','McLaren'],
                   ['Fernando Alonso','Alpine F1'],
                   ['Sergio Pérez','Red Bull'], 
                   ['Esteban Ocon','Alpine F1'], 
-                  ['Antonio Giovinazzi','Alfa Romeo'],
-                  ['Nikita Mazepin','Haas F1 Team'],
-                  ['Nicholas Latifi','Williams']]
+                #   ['Nicholas Latifi','Williams'],
+                #   ['Alexander Albon','Williams'],
+                #   ['Guanyu Zhou','Alfa Romeo'],
+                #   ['Kevin Magnussen','Haas F1 Team']
+                  ]
 
 
 @app.route("/images/<path:path>")
@@ -49,24 +50,19 @@ def predict_position():
         my_rangeprediction, driver_confidence, constructor_reliability = predictor.pred(driver,constructor,quali,circuit)
         #print ("%s: %s : %s : %s : %s " % (driver, constructor, my_rangeprediction, driver_confidence, constructor_reliability))
         driverproba, constructorproba = predictor.getproba(driver,constructor)
-        predpercentage = "{:.2%}".format(driverproba)
+        # predpercentage = "{:.2%}".format(driverproba)
+        predpercentage = driverproba
         elem = [driver, constructor, my_rangeprediction, driver_confidence, constructor_reliability, predpercentage]
         res.append(elem)
     
-    #print (res)
-    df = pd.DataFrame(res, columns = ['Driver','Constructor','podium', 'driver_confidence', 'constructor_reliability', 'Prediction'] )
-    # Filter only Drivers with Podium probability
-    df1 = df[df['podium']==1]
-    df1 = df1.sort_values(['Prediction'], ascending=False).head(5)
-    if len(df1) < 5 :
-        df2 = df[df['podium']==2]
-        df2 = df2.sort_values(['Prediction'], ascending=False).head(5-len(df1))
-        df1 = df1.append(df2)
-    df1 = df1.drop(['Constructor', 'Prediction'],1)
+    # print (res)
+    df1 = pd.DataFrame(res, columns = ['Driver','Constructor','podium', 'driver_confidence', 'constructor_reliability', 'Prediction'] )
+    df1 = df1.sort_values(['podium','Prediction'], ascending=[True, False])#.head(5)
+    # df1 = df1.drop(['Prediction'],1)
     
     return render_template('index.html',tables=[df1.to_html(classes='driver')])
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8443, debug=True, ssl_context='adhoc')
+    app.run(host='0.0.0.0', port=8443, debug=True)
 
 
