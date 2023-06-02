@@ -65,9 +65,13 @@ def getproba(driver,constructor):
 def getQualifData(circuit, driver):
     df = qualif[(qualif['race']==circuit) & (qualif['driver']==driver)]
     qlst = df['quali_pos'].tolist()
+    print(driver)
     if len(qlst) > 0:
         return qlst[0]
     else :
         df = lastqualif[(qualif['driver']==driver)]
         qlst = df['quali_pos'].tolist()
         return qlst[0]
+
+# quali = getQualifData('Red Bull Ring','Daniel Ricciardo')
+# print(pred('Daniel Ricciardo','McLaren',quali,'Warm'))
