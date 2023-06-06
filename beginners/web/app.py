@@ -38,7 +38,7 @@ def get_input():
 @app.route('/predict',methods=['POST'])
 def predict_position():
     circuit = request.form['circuit']
-    weather = request.form['weather']
+    # weather = request.form['weather']
 
     #res = predictor.pred(circuit, weather)
     res = []
