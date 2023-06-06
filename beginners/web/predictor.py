@@ -14,7 +14,7 @@ driver_pred_dict = pickle.load(open('./driver_pred_dict','rb'))
 constructor_pred_dict = pickle.load(open('./constructor_pred_dict','rb'))
 
 # Dataset generated in previous phase
-data = pd.read_csv('../data_f1/cleaned_data.csv')
+data = pd.read_csv('../data_f1/ANNData/cleaned_data.csv')
 
 qualif = pd.read_csv('../data_f1/qualif_filtered.csv')
 lastqualif = pd.read_csv('../data_f1/qualif_lastrace.csv')

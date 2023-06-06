@@ -4,14 +4,14 @@ import pandas as pd
 
 app = Flask(__name__)
 
-active_drivers = [['Daniel Ricciardo','McLaren'], 
+active_drivers = [
+                  ['Daniel Ricciardo','McLaren'], 
                   ['Mick Schumacher','Haas F1 Team'], 
                   ['Carlos Sainz','Ferrari'],
                   ['Valtteri Bottas','Mercedes'], 
                   ['Lance Stroll','Aston Martin'], 
                   ['George Russell','Williams'],
                   ['Lando Norris','McLaren'], 
-                #   ['Sebastian Vettel','Aston Martin'], 
                   ['Charles Leclerc','Ferrari'], 
                   ['Lewis Hamilton','Mercedes'], 
                   ['Yuki Tsunoda','AlphaTauri'],
@@ -20,10 +20,12 @@ active_drivers = [['Daniel Ricciardo','McLaren'],
                   ['Fernando Alonso','Alpine F1'],
                   ['Sergio Pérez','Red Bull'], 
                   ['Esteban Ocon','Alpine F1'], 
-                #   ['Nicholas Latifi','Williams'],
-                #   ['Alexander Albon','Williams'],
+                  ['Alexander Albon','Williams'],
                 #   ['Guanyu Zhou','Alfa Romeo'],
-                #   ['Kevin Magnussen','Haas F1 Team']
+                  ['Kevin Magnussen','Haas F1 Team'],
+                  ['Nico Hülkenberg','Aston Martin'],
+                #   ['Logan Sargeant',''],
+                #   ['Oscar Piastri',''],
                   ]
 
 
